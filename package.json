@@ -10,7 +10,7 @@
   "author": "hunghg255",
   "license": "ISC",
   "dependencies": {
-    "convert-markdown-to-html": "^0.0.22"
+    "convert-markdown-to-html": "^0.0.23"
   },
   "devDependencies": {
     "typescript": "^5.3.3"
