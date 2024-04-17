@@ -16,7 +16,7 @@
     "@shikijs/twoslash": "^1.1.6",
     "@shikijs/vitepress-twoslash": "^1.1.6",
     "@types/markdown-it": "^13.0.7",
-    "convert-markdown-to-html": "^0.0.38",
+    "convert-markdown-to-html": "^0.0.39",
     "markdown-it": "^14.0.0",
     "typescript": "^5.3.3"
   }
